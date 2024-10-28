@@ -12,6 +12,8 @@ To access the Minecraft server from outside your network, forward port 25565 (TC
 <your_ip>:25565
 ```
 
+RCON port is exposed (danger!) - you should never forward it.
+
 ## References
 
 * Thanks to [alexbelgium](https://github.com/alexbelgium/hassio-addons) for the add-on template.
