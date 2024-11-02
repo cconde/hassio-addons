@@ -2,7 +2,10 @@
 
 - Added TYPE option
 
-##......
+## 1.1.3
+
+- Added proper RCON_PASSWORD option
+- Added PAUSE_WHEN_EMPTY_SECONDS option
 
 ## 1.1.0
 
