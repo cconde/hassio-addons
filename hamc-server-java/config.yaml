@@ -1,6 +1,6 @@
 name: HAMC Server Java with RCON
 description: Host a Java Minecraft server on Home Assistant
-version: 1.1.4
+version: 1.1.6
 slug: hamc-java-rcon
 init: false
 arch:
@@ -38,6 +38,7 @@ options:
   FORCE_GAMEMODE: false
   MAX_BUILD_HEIGHT: 256
   PAUSE_WHEN_EMPTY_SECONDS: 60
+  SPIGET_RESOURCES: 81297,19254
 schema:
   VERSION: str
   TYPE: list(VANILLA|SPIGOT|FABRIC|FORGE|PAPER|QUILT|MAGMA|SPONGEVANILLA|LIMBO|CRUCIBLE)
