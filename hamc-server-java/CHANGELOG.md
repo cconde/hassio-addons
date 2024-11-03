@@ -1,6 +1,7 @@
 ## 1.1.6
 
 - Added INTERNAL_NOTES for personal records (no effect on server)
+- Fixed RCON_PASSWORD as "pass" option type
 
 ## 1.1.5
 
