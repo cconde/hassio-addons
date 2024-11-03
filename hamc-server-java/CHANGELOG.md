@@ -1,3 +1,7 @@
+## 1.1.5
+
+- Added SPIGET_RESOURCES
+
 ## 1.1.4
 
 - Added TYPE option
