@@ -39,6 +39,7 @@ options:
   MAX_BUILD_HEIGHT: 256
   PAUSE_WHEN_EMPTY_SECONDS: 60
   SPIGET_RESOURCES: "19254"
+  INTERNAL_NOTES: "Just some internal notes for you..."
 schema:
   VERSION: str
   TYPE: list(VANILLA|SPIGOT|FABRIC|FORGE|PAPER|QUILT|MAGMA|SPONGEVANILLA|LIMBO|CRUCIBLE)
@@ -66,6 +67,7 @@ schema:
   RCON_PASSWORD: str
   PAUSE_WHEN_EMPTY_SECONDS: int
   SPIGET_RESOURCES: str
+  INTERNAL_NOTES: str
 map:
   - addons:rw
 environment:
