@@ -1,6 +1,10 @@
+## 1.1.6
+
+- Added INTERNAL_NOTES for personal records (no effect on server)
+
 ## 1.1.5
 
-- Added SPIGET_RESOURCES
+- Added SPIGET_RESOURCES option
 
 ## 1.1.4
 
