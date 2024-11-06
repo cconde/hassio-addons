@@ -1,3 +1,7 @@
+## 1.1.7 
+
+- Added Plan statistics port
+
 ## 1.1.6
 
 - Added INTERNAL_NOTES for personal records (no effect on server)
