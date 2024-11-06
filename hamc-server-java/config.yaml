@@ -18,7 +18,7 @@ ports_description:
   25575/tcp: Minecraft RCON Port
   19132/udp: Geyser (Bedrock) Port
   8123/tcp: DynMap HTTP Port
-  8804/tcp: Plan Server statistics
+  8804/tcp: Plan Server statistics HTTP Port
 options:
   VERSION: LATEST
   TYPE: VANILLA
