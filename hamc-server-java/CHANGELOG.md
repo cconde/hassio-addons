@@ -1,6 +1,7 @@
 ## 1.1.7 
 
 - Added Plan statistics port
+- Added PLUGINS to automatically download Geyser and Floodgate
 
 ## 1.1.6
 
