@@ -1,6 +1,6 @@
 name: HAMC Server Java with RCON
 description: Host a Java Minecraft server on Home Assistant
-version: 1.1.7.beta7
+version: 1.1.7.beta8
 slug: hamc-java-rcon
 init: false
 arch:
@@ -21,14 +21,14 @@ ports_description:
   8804/tcp: Plan Server statistics HTTP Port
 options:
   VERSION: LATEST
-  TYPE: VANILLA
+  TYPE: PAPER
   SERVER_NAME: "HAMC Java Server"
   MOTD: "Greetings from Home Assistant"
   LEVEL: "World"
-  GAMEMODE: survival
+  GAMEMODE: creative
   DIFFICULTY: normal
   HARDCORE: false
-  MAX_PLAYERS: 10
+  MAX_PLAYERS: 20
   WHITELIST: ""
   OPS: ""
   SPAWN_PROTECTION: 0
