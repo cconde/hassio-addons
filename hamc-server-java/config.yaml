@@ -1,6 +1,6 @@
 name: HAMC Server Java with RCON
 description: Host a Java Minecraft server on Home Assistant
-version: 1.1.7.beta6
+version: 1.1.7.beta7
 slug: hamc-java-rcon
 init: false
 arch:
@@ -86,3 +86,4 @@ environment:
     https://dynmap.us/builds/dynmap/Dynmap-3.7-beta-8-spigot.jar
     https://dev.bukkit.org/projects/multiverse-portals/files/latest
     https://github.com/cjburkey01/ClaimChunk/releases/download/0.0.25-FIX3/claimchunk-0.0.25-FIX3-plugin.jar
+    https://github.com/Mineduino/Mineduino-spigot/releases/download/1.2.2/mineduino-1.2.2.jar
