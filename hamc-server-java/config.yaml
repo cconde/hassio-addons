@@ -44,8 +44,8 @@ options:
   FORCE_GAMEMODE: false
   MAX_BUILD_HEIGHT: 256
   PAUSE_WHEN_EMPTY_SECONDS: 60
-  SPIGET_RESOURCES: "19254"
-  INTERNAL_NOTES: "Just some internal notes for you - Spiget 19254 (ViaVersion)"
+  SPIGET_RESOURCES: "109224"
+  INTERNAL_NOTES: "Just some internal notes for you - Spiget 109224 (AutoUpdateViaVersion)"
 schema:
   VERSION: str
   TYPE: list(VANILLA|SPIGOT|FABRIC|FORGE|PAPER|QUILT|MAGMA|SPONGEVANILLA|LIMBO|CRUCIBLE)
